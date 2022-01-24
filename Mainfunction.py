@@ -1,4 +1,6 @@
 #!/bin/py
+pkg install toilet -y 
+pkg install python -y
 print("github:https://github.com/Letmehackyou011")
 
 YouTube:print("https://youtube.com/channel/UCIfCOyewE9Qv7RyqpuIiCwQ")
@@ -8,6 +10,7 @@ print("Termux all command in second")
 
 
 print('''
+
     _______                              _____               _ 
    |__   __|                            / ____|             | |
       | | ___ _ __ _ __ ___  _   ___  _| |     _ __ ___   __| |
