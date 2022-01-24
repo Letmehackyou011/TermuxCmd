@@ -1,4 +1,4 @@
-
+#!/bin/py
 print("github:https://github.com/Letmehackyou011")
 
 YouTube:print("https://youtube.com/channel/UCIfCOyewE9Qv7RyqpuIiCwQ")
